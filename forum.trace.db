@@ -1,3 +1,0 @@
-2022-08-11 14:02:00 jdbc[3]: exception
-org.h2.jdbc.JdbcSQLException: Table "CONTA" not found; SQL statement:
-drop table conta [42102-197]

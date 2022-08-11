@@ -5,84 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6648d634-7ecf-47a7-a946-7fa214d7570a" name="Changes" comment="Commit">
-      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/bb/t99/AgendaDaoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/bb/t99/PetTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile.dev" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile.dev" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jenkinsfile" beforeDir="false" afterPath="$PROJECT_DIR$/Jenkinsfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/forum.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/forum.mv.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/forum.trace.db" beforeDir="false" afterPath="$PROJECT_DIR$/forum.trace.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/config/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/controlleres/AgendaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/controlleres/AgendaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/controlleres/EnderecoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/controlleres/EnderecoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/controlleres/PetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/controlleres/PetController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/dao/AgendaDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/dao/AgendaDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/dao/EnderecoDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/dao/EnderecoDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/dao/PetDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/dao/PetDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/exceptions/ErroLimite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/exceptions/ErroLimite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/exceptions/ErroSqlException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/exceptions/ErroSqlException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/models/Agenda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/models/Agenda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/models/AgendaSimple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/models/AgendaSimple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/models/Endereco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/models/Endereco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/models/Mensagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/models/Mensagem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/models/MensagemErro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/models/MensagemErro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/models/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/models/Pet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/models/enums/Sexo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/models/enums/Sexo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/repositories/AgendaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/repositories/AgendaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/repositories/EnderecoRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/repositories/EnderecoRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/repositories/PetRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/repositories/PetRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/services/AgendaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/services/AgendaService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/services/EnderecoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/services/EnderecoService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/services/PetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/services/PetService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/services/impl/AgendaServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/services/impl/AgendaServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/services/impl/PetServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/services/impl/PetServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/utils/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/bb/t99/utils/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/resources/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/resources/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/scripts/carga_testes.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/scripts/carga_testes.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/schemas/JsonSchema.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/schemas/JsonSchema.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/schemas/JsonSchemaError.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/schemas/JsonSchemaError.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/scripts/carga_testes.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/scripts/carga_testes.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/panache-archive.marker" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/resources/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/config/AppConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/controlleres/AgendaController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/controlleres/EnderecoController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/controlleres/PetController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/dao/AgendaDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/dao/EnderecoDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/dao/PetDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/exceptions/ErroLimite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/exceptions/ErroSqlException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/models/Agenda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/models/AgendaSimple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/models/Endereco.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/models/Mensagem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/models/MensagemErro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/models/Pet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/models/enums/Sexo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/repositories/AgendaRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/repositories/EnderecoRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/repositories/PetRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/services/AgendaService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/services/EnderecoService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/services/PetService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/services/impl/AgendaServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/services/impl/PetServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/bb/t99/utils/Result.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/scripts/carga_testes.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/forum.trace.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/bb/t99/PetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/bb/t99/PetTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,19 +34,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/F0974918/IdeaProjects/passeiocomaju"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/F0974918/IdeaProjects/passeiocomaju&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\F0974918\IdeaProjects\passeiocomaju" />
       <recent name="C:\Users\F0974918\IdeaProjects\passeiocomaju\src\main\resources\META-INF\" />
       <recent name="C:\Users\F0974918\IdeaProjects\passeiocomaju\src\main\resources" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="QuarkusRunConfiguration" factoryName="QuarkusRunConfiguration" nameIsGenerated="true">
+      <module name="PasseioComAJu" />
+      <option name="profile" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -152,7 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660242110983</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit">
+      <created>1660252516873</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660252516873</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commit">
+      <created>1660252539318</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1660252539318</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
