@@ -22,7 +22,7 @@ Entrega 1/3: Desenvolver a especificaçao inicial do projeto:
         CRUD pets (com endereço)
         CRUD Agenda
         Listar os passeios a ser realizados em um determinado dia
-                
+
 Diagrama de classes
 
 ![Diagrama de classes](https://github.com/trobozoi/PasseioComAJu/blob/master/DiagramaClasses.png)

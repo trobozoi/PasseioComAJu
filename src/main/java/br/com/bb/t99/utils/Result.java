@@ -30,8 +30,7 @@ public final class Result<T> {
     /**
      * Creates a result containing an error
      *
-     * @param code    the error code
-     * @param message the error message
+     * @param error the error message
      * @param <T>     the type that the value would have had
      *
      * @return a {@code Result} containing an error
@@ -197,7 +196,7 @@ public final class Result<T> {
      * @throws NullPointerException if either of the given actions are {@code null}
      */
     public <R> R returnIfSuccessOrError(Function<? super T, ? extends R> creator,
-            Function<? super MensagemErro, ? extends R> errorCreator) {
+                                        Function<? super MensagemErro, ? extends R> errorCreator) {
         Objects.requireNonNull(creator, "Action cannot be null");
         Objects.requireNonNull(errorCreator, "Error action cannot be null");
         if (isSuccess()) {

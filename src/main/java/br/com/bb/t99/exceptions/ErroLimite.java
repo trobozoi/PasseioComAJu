@@ -11,7 +11,7 @@ public class ErroLimite extends BBException{
         this.put(FilterUtils.VAR_MOTIVO,  e.getMessage());
         StackTraceElement stackTrace = this.getStackTrace()[this.getStackTrace().length>1?1:0];
         this.put(FilterUtils.VAR_ORIGEM,
-            String.format("%s:%s", stackTrace.getClassName(), stackTrace.getLineNumber()));
+                String.format("%s:%s", stackTrace.getClassName(), stackTrace.getLineNumber()));
     }
 
     public final String put(String key, String value) {

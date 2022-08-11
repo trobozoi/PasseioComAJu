@@ -1,4 +1,4 @@
- # Changelog [<%= appname %>]
+# Changelog [<%= appname %>]
 
 As principais alterações neste projeto serão documentadas neste arquivo.
 
@@ -16,4 +16,4 @@ Segurança        para incentivar usuários a atualizarem em caso de vulnerabili
 
 ## [0.1.0] - dd/mm/yyyy
 ### Adicionado
- - Build através da imagem padrão BB para projeto maven
+- Build através da imagem padrão BB para projeto maven

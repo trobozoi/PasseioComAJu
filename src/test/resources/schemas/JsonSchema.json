@@ -1,63 +1,63 @@
 {
-    "$schema": "http://json-schema.org/draft-04/schema",
-    "type": "array",
-    "items": [
-      {
-        "type": "object",
-        "properties": {
-          "id": {=
-            "type": "integer"
-          },
-          "nascimento": {
-            "type": "string"
-          },
-          "nome": {
-            "type": "string"
-          }
+  "$schema": "http://json-schema.org/draft-04/schema",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
         },
-        "required": [
-          "id",
-          "nascimento",
-          "nome"
-        ]
+        "nascimento": {
+          "type": "string"
+        },
+        "nome": {
+          "type": "string"
+        }
       },
-      {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "integer"
-          },
-          "nascimento": {
-            "type": "string"
-          },
-          "nome": {
-            "type": "string"
-          }
+      "required": [
+        "id",
+        "nascimento",
+        "nome"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
         },
-        "required": [
-          "id",
-          "nascimento",
-          "nome"
-        ]
+        "nascimento": {
+          "type": "string"
+        },
+        "nome": {
+          "type": "string"
+        }
       },
-      {
-        "type": "object",
-        "properties": {
-          "id": {
-            "type": "integer"
-          },
-          "nascimento": {
-            "type": "string"
-          },
-          "nome": {
-            "type": "string"
-          }
+      "required": [
+        "id",
+        "nascimento",
+        "nome"
+      ]
+    },
+    {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "integer"
         },
-        "required": [
-          "id",
-          "nascimento",
-          "nome"
-        ]
-      }
-    ]
-  }
+        "nascimento": {
+          "type": "string"
+        },
+        "nome": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "nascimento",
+        "nome"
+      ]
+    }
+  ]
+}

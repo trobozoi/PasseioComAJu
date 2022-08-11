@@ -55,11 +55,11 @@ public class AgendaServiceImpl implements AgendaService {
         List<Agenda> agendaList1 = agendaList.stream().filter(
                 agenda1 -> (dataFim.isAfter(agenda1.getData()) &&
                         (dataFim.isBefore(agenda1.getData().plusMinutes(agenda1.getDuracao())) ||
-                          dataFim.isEqual(agenda1.getData().plusMinutes(agenda1.getDuracao())))) ||
+                                dataFim.isEqual(agenda1.getData().plusMinutes(agenda1.getDuracao())))) ||
                         ((dataIni.isAfter(agenda1.getData()) ||
-                          dataIni.isEqual(agenda1.getData())) &&
-                          dataIni.isBefore(agenda1.getData().plusMinutes(agenda1.getDuracao())))
-                ).collect(Collectors.toList());
+                                dataIni.isEqual(agenda1.getData())) &&
+                                dataIni.isBefore(agenda1.getData().plusMinutes(agenda1.getDuracao())))
+        ).collect(Collectors.toList());
 
         if(agendaList1.size() != 0) {
             return null;
