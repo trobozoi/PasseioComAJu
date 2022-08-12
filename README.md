@@ -52,13 +52,24 @@ Trabalho em grupo. Entregar através do link do GitHub e mencionar os nomes dos 
 
 ** Data de entrega: 12/08/2022 **
 
+Questão #1
 
-.
+Vale 100
 
-.
+Enunciado
 
-.
+Projeto do módulo Programação WEB II.
 
-.
+Projeto: API com arquitetura RESTful. Utilizar Spring boot ou Quarkus.
 
-.
+Entrega 3/3 - Projeto final
+
+    Desenvolver toda a regra de negócio da API.
+    Realizar a documentação da API com Swagger.
+    Utilizar Cache nas chamadas mais utilizadas ou complexas.
+
+** Entregar o link do github e a documentação no arquivo README.md
+
+Trabalho em grupo. Entregar através do link do GitHub e mencionar os nomes dos participantes. Todos os membros do grupo precisam responder o exercício para não ficar como exercício pendente no class.
+
+** Data de entrega: 18/08/2022 **
